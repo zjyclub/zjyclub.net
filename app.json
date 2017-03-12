@@ -1,0 +1,18 @@
+{
+  "name": "zjyclub.net",
+  "scripts": {
+    "postdeploy": "e.g. https://heroku.com/deploy?template=https://github.com/ellefsen/wordpress-heroku-php/tree/master"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "e.g. https://heroku.com/deploy?template=https://github.com/ellefsen/wordpress-heroku-php/tree/master"
+    }
+  ]
+}
